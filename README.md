@@ -1,7 +1,7 @@
 - Hi, I’m @stevbarto
-- I’m interested in coding algorithms and logic.
+- I’m interested in coding stuff, that is all.
 - I’m currently a computer science student with WGU.
-- I’m looking to collaborate on projects that develop my skill and base of knowledge in common technologies.
+- I’m looking to collaborate and learn how to code more stuff.
 - 📫 How to reach me: stevbarto@gmail.com
 
 <!---
